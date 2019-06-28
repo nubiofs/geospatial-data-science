@@ -4,105 +4,105 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2019-06-28T17:34:03-00:00</lastmod>
+<loc>https://janakiev.com/geospatial-data-science/</loc>
+<lastmod>2019-06-28T17:43:12-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2019-06-28T17:34:03-00:00</lastmod>
+<loc>https://janakiev.com/geospatial-data-science/archives.html</loc>
+<lastmod>2019-06-28T17:43:12-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2019-06-28T17:34:03-00:00</lastmod>
+<loc>https://janakiev.com/geospatial-data-science/tags.html</loc>
+<lastmod>2019-06-28T17:43:12-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2019-06-28T17:34:03-00:00</lastmod>
+<loc>https://janakiev.com/geospatial-data-science/categories.html</loc>
+<lastmod>2019-06-28T17:43:12-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/test-article.html</loc>
+<loc>https://janakiev.com/geospatial-data-science/test-article.html</loc>
 <lastmod>2019-06-22T00:00:00+02:00</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/my-test-blog-post.html</loc>
+<loc>https://janakiev.com/geospatial-data-science/my-test-blog-post.html</loc>
 <lastmod>2014-11-01T13:49:00+01:00</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/category/attempts.html</loc>
+<loc>https://janakiev.com/geospatial-data-science/category/attempts.html</loc>
 <lastmod>2014-11-01T13:49:00+01:05</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/test-article.html</loc>
+<loc>https://janakiev.com/geospatial-data-science/category/test-article.html</loc>
 <lastmod>2019-06-22T00:00:00+01:05</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/article.html</loc>
+<loc>https://janakiev.com/geospatial-data-science/tag/article.html</loc>
 <lastmod>2019-06-22T00:00:00+01:05</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/test.html</loc>
+<loc>https://janakiev.com/geospatial-data-science/tag/test.html</loc>
 <lastmod>2019-06-22T00:00:00+01:05</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/blogging.html</loc>
+<loc>https://janakiev.com/geospatial-data-science/tag/blogging.html</loc>
 <lastmod>2014-11-01T13:49:00+01:05</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/pelican.html</loc>
+<loc>https://janakiev.com/geospatial-data-science/tag/pelican.html</loc>
 <lastmod>2014-11-01T13:49:00+01:05</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/markdown.html</loc>
+<loc>https://janakiev.com/geospatial-data-science/tag/markdown.html</loc>
 <lastmod>2014-11-01T13:49:00+01:05</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/me.html</loc>
+<loc>https://janakiev.com/geospatial-data-science/author/me.html</loc>
 <lastmod>2014-11-01T13:49:00+01:05</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/nikolai-janakiev.html</loc>
+<loc>https://janakiev.com/geospatial-data-science/author/nikolai-janakiev.html</loc>
 <lastmod>2019-06-22T00:00:00+01:05</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
